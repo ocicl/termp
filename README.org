@@ -1,0 +1,10 @@
+* termp
+
+Trivial utility: are we in a terminal window or in a dumb one? (like
+Emacs' Slime)
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/vindarel/termp.git |
+| commit  | 29789fe                                   |
+| systems | termp                                     |
+|---------+-------------------------------------------|
